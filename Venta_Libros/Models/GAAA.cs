@@ -5,7 +5,7 @@ using System.Web;
 
 namespace Venta_Libros.Models
 {
-    // NUEBO CAMBIO HECHO POR EVER SILVA CAMPOS
+    // QUE BIEN SE MODIFICO TODO COMO LO ESPERABA
     public class GAAA
     {
         private string _vasacaerchupetin {get;set;} //gaa
