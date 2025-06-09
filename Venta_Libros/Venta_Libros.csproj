@@ -126,6 +126,7 @@
     </Compile>
     <Compile Include="Models\Clientes.cs" />
     <Compile Include="Models\DetallePedido.cs" />
+    <Compile Include="Models\GAAA.cs" />
     <Compile Include="Models\Pedido.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
