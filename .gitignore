@@ -33,3 +33,4 @@ App_Data/
 # Archivos del sistema
 Thumbs.db
 ehthumbs.db
+/Venta_Libros/obj/Debug/Venta_Libros.csproj.AssemblyReference.cache
