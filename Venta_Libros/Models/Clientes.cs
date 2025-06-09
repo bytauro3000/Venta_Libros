@@ -27,6 +27,8 @@ namespace Venta_Libros.Models
         public string Telefono { get; set; }
 
         [Display(Name = "Fecha de Registro")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
         public DateTime FechaRegistro { get; set; }
 
     }
