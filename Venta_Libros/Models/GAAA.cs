@@ -5,7 +5,7 @@ using System.Web;
 
 namespace Venta_Libros.Models
 {
-// POR QUE NO ME APARECE ESTA CLASESI ESTA EN MODELS 
+    // NUEBO CAMBIO HECHO POR EVER SILVA CAMPOS
     public class GAAA
     {
         private string _vasacaerchupetin {get;set;} //gaa
