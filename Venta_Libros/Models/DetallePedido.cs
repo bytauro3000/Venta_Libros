@@ -7,5 +7,6 @@ namespace Venta_Libros.Models
 {
     public class DetallePedido
     {
+
     }
 }
