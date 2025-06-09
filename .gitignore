@@ -1,0 +1,35 @@
+# Archivos de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.nuspec
+*.snupkg
+
+# Archivos web temporales
+App_Data/
+*.mdf
+*.ldf
+*.publish.xml
+
+# Logs, temporales y backups
+*.log
+*.tmp
+*.bak
+*.swp
+*.dbmdl
+
+# VS Code o Rider
+.vscode/
+.idea/
+
+# Archivos del sistema
+Thumbs.db
+ehthumbs.db
